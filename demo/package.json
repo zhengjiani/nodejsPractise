@@ -1,0 +1,12 @@
+{
+   "name": "demo",
+   "description": "My First Express App",
+   "version": "0.0.1",
+   "dependencies": {
+      "consolidate": "^0.15.1",
+      "express": "^3.21.2"
+   },
+   "devDependencies": {
+      "hbs": "^4.0.1"
+   }
+}
